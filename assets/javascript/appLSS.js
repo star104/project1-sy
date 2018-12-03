@@ -32,7 +32,6 @@ var queryURLBase =
   apiId +
   "&app_key=" +
   apiKey;
-
 // track the number of recipes
 recipeCounter = 0;
 searchTerm = array[0];
