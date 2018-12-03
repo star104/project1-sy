@@ -25,7 +25,7 @@ var database = firebase.database();
 
 // edamam url base
 var queryURLBase =
-  "https://cors-anywhere.herokuapp.com/http://api.edamam.com/search?from=0&to=20&app_id=" +
+  "https://cors-anywhere.herokuapp.com/https://api.edamam.com/search?from=0&to=20&app_id=" +
   apiId +
   "&app_key=" +
   apiKey;
