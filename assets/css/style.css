@@ -19,7 +19,7 @@ body {
     padding:10px;
 }
 #header {
-    color: green !important;
+    color: rgb(231, 240, 231) !important;
     text-shadow: .5px .5px rgb(36, 36, 36);
     font-family: 'Fredericka the Great', cursive;
     padding-bottom: 20px;
@@ -31,6 +31,7 @@ body {
 .btn-primary
 {
     background-color: #E8BD53;
+    
 }
 .verticalList {
     /* white-space: pre; */
@@ -41,7 +42,12 @@ body {
     height: 250px;
 }
 
+.footer{
+    color: white;
+    width: 100%;
+    margin-top: 20px;
 
+}
 /* pls keep, this is the fix for overlapping bootstrap sticky footer -k */
 .push {
     height: 50px;
